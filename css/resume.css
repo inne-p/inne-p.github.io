@@ -37,6 +37,7 @@ h2 {
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
+  color: #14B389 !important;
 }
 
 .list-social-icons a {
@@ -131,7 +132,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  
+
   background-image: linear-gradient(
       rgba(0, 0, 0, 0.7), 
       rgba(0, 0, 0, 0.7)
